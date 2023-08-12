@@ -1,0 +1,11 @@
+name = "modified_gruvbox"
+version = "0.1.0"
+display-name = "Modified Gruvbox"
+author = "v0lt0rb"
+description = "The Iconic (modified) Gruvbox Theme"
+icon = "modified_gruvbox.png"
+repository = "https://github.com/imm0rtal-v0lt0rb/lapce-modified-gruvbox"
+color-themes = [
+    "modified-gruvbox-dark.toml",
+    "modified-gruvbox-light.toml",
+]
